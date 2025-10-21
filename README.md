@@ -35,26 +35,28 @@
 <p>
   My recent work includes full-stack projects using <strong>Next.js</strong> and database solutions like <strong>MongoDB</strong>, focusing on authentication and utility applications.
   <br>
-  Check out my pinned repositories for a closer look:
+  Check out my repositories for a closer look:
 </p>
-
 
 ---
 
 ## 📊 GitHub Stats
-
-<p>
-  Your contribution and performance metrics at a glance:
+<p align="center">
+  <a href="https://github.com/ASHUTOSH-A-49">
+  <img src="https://github-readme-stats.vercel.app/api?username=ASHUTOSH-A-49&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="ASHUTOSH-A-49's GitHub stats" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/ASHUTOSH-A-49">
+  <img src="https://streak-stats.demolab.com/?user=ASHUTOSH-A-49&theme=dark&hide_border=true" alt="GitHub Streak" />
+    </a>
 </p>
 
 <p align="center">
-  [![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ASHUTOSH-A-49&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/ASHUTOSH-A-49)
-  
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=ASHUTOSH-A-49&theme=dark&hide_border=true)](https://git.io/streak-stats)
+  <a href="https://github.com/ASHUTOSH-A-49">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASHUTOSH-A-49&layout=compact&theme=radical&hide_border=true&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
+    </a>
 </p>
-
-
-
 ---
 
 ## 📬 Connect with Me
@@ -72,5 +74,6 @@
 
 <br>
 </div>
+
 
 
