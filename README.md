@@ -39,7 +39,10 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/half-blood-prince/half-blood-prince/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake" style="max-width: 900px;" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ASHUTOSH-A-49/ASHUTOSH-A-49/main/dist/github-contribution-grid-snake-dark.svg">
+    <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/ASHUTOSH-A-49/ASHUTOSH-A-49/main/dist/github-contribution-grid-snake.svg">
+  </picture>
 </p>
 
 ---
@@ -57,7 +60,7 @@
 </p>
 
 <p align="center">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ASHUTOSH-A-49&layout=compact&theme=radical&hide_border=true)](https://github.com/ASHUTOSH-A-49)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ASHUTOSH-A-49&layout=compact&theme=radical&hide_border=true&size_weight=0.5&count_weight=0.5)](https://github.com/ASHUTOSH-A-49)
 </p>
 
 ---
@@ -77,3 +80,4 @@
 
 <br>
 </div>
+
