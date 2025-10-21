@@ -38,12 +38,6 @@
   Check out my pinned repositories for a closer look:
 </p>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ASHUTOSH-A-49/ASHUTOSH-A-49/main/dist/github-contribution-grid-snake-dark.svg">
-    <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/ASHUTOSH-A-49/ASHUTOSH-A-49/main/dist/github-contribution-grid-snake.svg">
-  </picture>
-</p>
 
 ---
 
@@ -59,9 +53,7 @@
   [![GitHub Streak](https://streak-stats.demolab.com/?user=ASHUTOSH-A-49&theme=dark&hide_border=true)](https://git.io/streak-stats)
 </p>
 
-<p align="center">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ASHUTOSH-A-49&layout=compact&theme=radical&hide_border=true&size_weight=0.5&count_weight=0.5)](https://github.com/ASHUTOSH-A-49)
-</p>
+
 
 ---
 
@@ -80,4 +72,5 @@
 
 <br>
 </div>
+
 
