@@ -31,6 +31,13 @@
 
 ---
 
+<p align="center">
+  <a href="https://github.com/ASHUTOSH-A-49">
+  <img src="https://github-profile-trophy.vercel.app/?username=ASHUTOSH-A-49&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy" alt="Trophies" />
+    </a>
+  </p>
+---
+
 <h2>🚀 My Latest Projects & Focus</h2>
 <p>
   My recent work includes full-stack projects using <strong>Next.js</strong> and database solutions like <strong>MongoDB</strong>, focusing on authentication and utility applications.
@@ -74,6 +81,7 @@
 
 <br>
 </div>
+
 
 
 
