@@ -53,10 +53,10 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/ASHUTOSH-A-49">
-  <img src="https://github.com/ryo-ma/github-profile-trophy" alt="Trophies" />
-    </a>
-  </p>
+  <a href="YOUR_GITHUB_PROFILE_URL">
+    <img src="https://github-profile-trophy.vercel.app/?username=ASHUTOSH-A-49" alt="GitHub Trophies" />
+  </a>
+</p>
 ---
 
 <h2>🚀 My Latest Projects & Focus</h2>
@@ -102,6 +102,7 @@
 
 <br>
 </div>
+
 
 
 
