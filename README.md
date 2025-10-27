@@ -54,7 +54,7 @@
 
 <p align="center">
   <a href="https://github.com/ASHUTOSH-A-49">
-  <img src="https://github-profile-trophy.vercel.app/?username=ASHUTOSH-A-49&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy" alt="Trophies" />
+  <img src="https://github.com/ryo-ma/github-profile-trophy" alt="Trophies" />
     </a>
   </p>
 ---
@@ -102,6 +102,7 @@
 
 <br>
 </div>
+
 
 
 
