@@ -71,7 +71,7 @@
 ## 📊 GitHub Stats
 <p align="center">
   <a href="https://github.com/ASHUTOSH-A-49">
-  <img src="https://github-readme-stats.vercel.app/api?username=ASHUTOSH-A-49&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="ASHUTOSH-A-49's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ASHUTOSH-A-49&show_icons=true&theme=radical" alt="ASHUTOSH-A-49's GitHub stats" />
   </a>
 </p>
 <p align="center">
@@ -102,6 +102,7 @@
 
 <br>
 </div>
+
 
 
 
